@@ -268,7 +268,7 @@ nav h1 a {
   padding: 140px 40px 30px; */
   width: 100%;   /* <- */
 }
-#reviews-container h2 {
+#reviews-container h2, h3 {
 	text-align: center;
   color: #f58500;
   font-size: 24pt;
