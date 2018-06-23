@@ -366,16 +366,6 @@ nav h1 a {
 }
 
 /*
- * Media queries -> 1125px
- */
-@media screen and (min-width: 1125px) {
-	body {
-		margin: auto;
-		max-width: 1125px;
-	}
-}
-
-/*
  * Media queries -> 730px
  */
 @media screen and (max-width: 730px) {
